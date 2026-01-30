@@ -7,11 +7,10 @@ Backend Java | Spring Boot | APIs REST | Spring Security | JWT | JPA/Hibernate |
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 
-🚀 Desenvolvedor Backend com foco em **Java + Spring Boot**, apaixonado por
+🚀 Desenvolvedor Backend com foco em **Java + Spring Boot**, dedicado a
 construir APIs REST seguras, bem estruturadas e com regras de negócio claras.
 
-Tenho experiência no desenvolvimento de sistemas backend completos,
-desde autenticação e autorização até modelagem de domínio e validações de negócio.
+Tenho experiência no desenvolvimento de sistemas backend, envolvendo autenticação e autorização, modelagem de domínio e validações de regras de negócio.
 
 ---
 
@@ -64,8 +63,7 @@ seguindo boas práticas de arquitetura em camadas.
 
 ---
 
-### 🎯 Objetivo
-Demonstrar habilidades em:
+### 🎯 Competências demonstradas
 - Desenvolvimento de APIs REST com Spring Boot
 - Segurança com Spring Security e JWT
 - Modelagem de domínio e regras de negócio
