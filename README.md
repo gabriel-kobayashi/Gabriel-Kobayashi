@@ -1,21 +1,21 @@
 ## 👋 Olá! Eu sou Gabriel Kobayashi
 
-Backend Java | Spring Boot | APIs REST | Spring Security | JWT | JPA/Hibernate | PostgreSQL
+Backend | Java | Spring Boot | APIs REST | Spring Security | JWT | JPA/Hibernate | PostgreSQL
 
-![Java](https://img.shields.io/badge/Java-17+-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
-![Maven](https://img.shields.io/badge/Maven-Build-red)
+![Java](https://img.shields.io/badge/Java-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![Maven](https://img.shields.io/badge/Maven-red)
 
-🚀 Desenvolvedor Backend com foco em **Java + Spring Boot**, dedicado a
-construir APIs REST seguras, bem estruturadas e com regras de negócio claras.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend.
 
-Tenho experiência no desenvolvimento de sistemas backend, envolvendo autenticação e autorização, modelagem de domínio e validações de regras de negócio.
+Atualmente estudo e pratico o desenvolvimento de APIs REST utilizando Java e Spring Boot, com atenção à segurança, organização do código e regras de negócio.  
+Tenho desenvolvido projetos pessoais para consolidar os conceitos aprendidos e evoluir continuamente na área.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-- Java 17+
+- Java 
 - Spring Boot
 - Spring Web
 - Spring Security
